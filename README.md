@@ -42,4 +42,4 @@ By optimizing discount strategies and focusing on high-value customers, the comp
 - [Download the Excel Dashboard](files/Retail_Performance_Profit_Optimization_Dashboard.xlsx)
 
 ## Author
-Created by [Your Name]
+Created by Bo Kwok
