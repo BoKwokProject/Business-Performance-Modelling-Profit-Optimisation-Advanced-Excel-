@@ -24,8 +24,12 @@ A retail business experienced sales growth, but profit did not increase proporti
 ## Executive Summary Preview
 ![Executive Summary](images/executive-summary.png)
 
-## Import Charts
+## Important Charts
 ![Important charts](images/discount-profitmargin.png)
+
+![Important charts](images/profit-blackhole.png)
+
+![Important charts](images/region-efficiency.png)
 
 ## Key Findings
 - The **Tables** sub-category is structurally unprofitable, with an overall profit margin of **-8.56%**
