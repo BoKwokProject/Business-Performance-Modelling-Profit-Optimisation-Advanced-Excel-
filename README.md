@@ -24,8 +24,9 @@ A retail business experienced sales growth, but profit did not increase proporti
 ## Executive Summary Preview
 ![Executive Summary](images/executive-summary.png)
 
-## Graph
+## Import Charts
 ![Important charts](images/discount-profitmargin.png)
+
 ## Key Findings
 - The **Tables** sub-category is structurally unprofitable, with an overall profit margin of **-8.56%**
 - High discount levels significantly reduce profitability, especially in the East region, where Tables discount reached **36.82%** and **37.39%**
