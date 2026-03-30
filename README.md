@@ -1,4 +1,4 @@
-# Retail Performance & Profit Optimization Analysis
+# Business Performance Modelling & Profit Optimisation (Advanced Excel)
 
 ## Project Overview
 This project analyzes retail sales performance to identify profit leakage and improve profitability. The analysis focuses on product performance, discount impact, customer concentration, and regional efficiency using Advanced Excel, Power Query, PivotTables, and Data Model measures.
