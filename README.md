@@ -31,13 +31,13 @@ A retail business experienced sales growth, but profit did not increase proporti
 
 ![Important charts](images/region-efficiency.png)
 
-## Key Findings
+## Key Insights
 - The **Tables** sub-category is structurally unprofitable, with an overall profit margin of **-8.56%**
 - High discount levels significantly reduce profitability, especially in the East region, where Tables discount reached **36.82%** and **37.39%**
 - Approximately **19% of customers contribute 80% of total profit**
 - The **Central** region has the **lowest profit margin (7.92%)** and the **highest average discount (24.04%)**
 
-## Recommendations
+## Business Recommendations
 - Implement a **20–25% discount cap** for the Tables sub-category
 - Reduce excessive discounting in the Central region
 - Prioritize retention of high-value customers who generate the majority of total profit
